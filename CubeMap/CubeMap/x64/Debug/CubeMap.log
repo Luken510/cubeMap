@@ -1,0 +1,86 @@
+﻿  vboteapot.cpp
+  vboplane.cpp
+  Texture.cpp
+  stdafx.cpp
+  BoxMap.cpp
+  CubeMapScene.cpp
+  QuatCamera.cpp
+  gl_core_4_3.cpp
+  glutils.cpp
+  glslprogram.cpp
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\include\glslprogram.h(69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\include\glslprogram.h(70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\include\glslprogram.h(72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\include\glslprogram.h(74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\include\glslprogram.h(75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\include\glslprogram.h(76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\src\glslprogram.cpp(56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\src\glslprogram.cpp(93): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\src\glslprogram.cpp(125): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\src\glslprogram.cpp(173): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\src\glslprogram.cpp(205): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\final year uni\shader programming\coursework\cubemap\cubemap\cubemap\src\glslprogram.cpp(398): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  drawable.cpp
+  CubeMap.cpp
+  Bitmap.cpp
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(582): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(604): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(650): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(672): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(891): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(929): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(947): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(1861): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(1889): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(1907): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(2874): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(2999): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3005): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3013): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3015): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3023): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3058): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3061): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3088): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3091): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3102): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3140): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3317): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3338): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3343): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3473): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3477): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3485): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3493): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3506): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3523): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3527): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3665): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3693): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3704): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3705): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3719): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3738): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3756): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3767): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3776): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3803): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(3804): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4014): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4018): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4023): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4034): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4063): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4070): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4087): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4117): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4150): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4263): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4272): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4277): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4281): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+e:\final year uni\shader programming\coursework\cubemap\opengl\stb_image\stb_image\stb_image.h(4330): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CubeMap.vcxproj -> E:\Final Year Uni\Shader Programming\coursework\cubeMap\CubeMap\x64\Debug\CubeMap.exe
+  CubeMap.vcxproj -> E:\Final Year Uni\Shader Programming\coursework\cubeMap\CubeMap\x64\Debug\CubeMap.pdb (Full PDB)
